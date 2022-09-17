@@ -1,6 +1,6 @@
 
 # Sorting Visualizer Site
-A website I've built to show Merge, Heap, Quick and Bubble sort work on a randomised array of length 100, constructed with create-react-app.
+A website I've built to show Merge, Heap, Quick and Bubble sort working on a randomised array of length 100, constructed with create-react-app.
 
 # Lessons Learned
 My first React project, while difficult to learn the basics of react while implementing the algorithms I enjoyed the challenge.
