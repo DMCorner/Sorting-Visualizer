@@ -21,10 +21,10 @@ Get started
 From your command line, first clone this repo:
 
 # Clone this repository
-$ git clone https://github.com/rgneville/material-ui-site
+$ git clone
 
 # Go into the repository
-$ cd material-ui-site
+$ cd
 
 # Remove current origin repository
 $ git remote remove origin
