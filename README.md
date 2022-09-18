@@ -5,7 +5,7 @@ A website I've built to show Merge, Heap, Quick and Bubble sort working on a ran
 # Lessons Learned
 My first React project, while difficult to learn the basics of react while implementing the algorithms I enjoyed the challenge.
 
-I needed to learn a lot about how the virtual DOM works and how to properly update it. As a side I also learned about big O notation though I'm unsure about how relevant that is within fron end development.
+I needed to learn a lot about how the virtual DOM works and how to properly update it. As a side I also learned about big O notation though I'm unsure about how relevant that is within front end development.
 
 # Potential Future Features
 1) A slider that varies the time between the steps of the sorting algorithm. Bubble sort takes a bit too long while quick sort is too fast to really see how it works.
